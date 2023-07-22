@@ -1,4 +1,4 @@
-# Contributors
+[Shivam Kulshrestha].(https://github.com/Shivamkulshrestha30)
 
 <!-- prettier-ignore-start and welcome -->
 - [Hrushikesh](https://github.com/FlashBang-000X)
