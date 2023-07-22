@@ -1,7 +1,7 @@
 
 
 <!-- prettier-ignore-start and welcome -->
-- [Shivam Kulshrestha].(https://github.com/Shivamkulshrestha30)
+- [Shivam Kulshrestha](https://github.com/Shivamkulshrestha30)
 - [Hrushikesh](https://github.com/FlashBang-000X)
 - [Brendon Crave](https://github.com/bcrave)
 - [Maciej Buračok](https://github.com/maciejburacok)
